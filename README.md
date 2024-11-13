@@ -16,9 +16,9 @@
 
 注意，这一步，**有两种方法**；
 
-- 第一种方法：你建一个全新的项目，下载[我提供的 .zip 文件](https://github.com/fivestone/hugo-papermod-beginning/releases)，解压后，再手动上传到你的项目。和第二种相比，稍微繁琐一点。但还是希望大家，有条件的话，使用这种方法。
+- 第一种方法：你建一个全新的项目，下载[我提供的 .zip 文件](https://github.com/fivestone/hugo-papermod-beginning/releases)，解压后，再手动上传到你的项目。和第二种相比，稍微繁琐一点。但还是希望大家，**有条件的话，使用这种方法**。
 
-- 第二种方法，把我的这个项目，fork 到你的项目。这种方法对新人更简便，完全不需要在本地操作文件，只用手机或 pad 就可以完成。但这种 fork 在一起的项目，在进行自动发布 blog 的操作时，是共享同一个操作额度的。如果 fork 的人数非常多，未来可能会[被 Github 限制](https://github.com/LSPosed/MagiskOnWSALocal)。——要达到这种规模，大概要几千人同时用吧……所以也不需要很在意。
+- 第二种方法，把我的这个项目，fork 到你的项目。这种方法**对新人更简便**，完全不需要在本地操作文件，只用手机或 pad 就可以完成。但这种 fork 在一起的项目，在进行自动发布 blog 的操作时，是共享同一个操作额度的。如果 fork 的人数非常多，未来可能会[被 Github 限制](https://github.com/LSPosed/MagiskOnWSALocal)。——要达到这种规模，大概要几千人同时用吧……所以也不需要很在意。
 
 #### 2.1. 第一种方法
 
